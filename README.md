@@ -1,6 +1,6 @@
 ## // ThinkPad64 
 ###### Sayonara_v1 is coming soon!   
-Site: <a href='https://ThinkPad64.com'>ThinkPad64.com</a>  
+**Site: <a href='https://ThinkPad64.com'>ThinkPad64.com</a>**<br>
 Hi! This is my GitHub profile, where I post my projects, such as "VKontkate Druza", "Liternet" and others. My stack: 
 1. Node.JS 
 2. HTML + CSS 
@@ -9,6 +9,7 @@ Hi! This is my GitHub profile, where I post my projects, such as "VKontkate Druz
 5. MySQL 
 6. Bash 
 7. Markdown
+8. VOCALOID4
 
 My projects:  
 1. <a href='https://GitHub.com//LiterNet'>LiterNet</a> - HTML and CSS. First project on GitHub, abandoned. 
